@@ -1,1 +1,3 @@
 # IBM-AI-Weather-Bot
+
+Our group collaborated with IBM to develop KAIROS, an AI Weather Bot designed to assist the elderly in accessing and enjoying digital services. Recognizing the hesitancy of the elderly towards new technology, we created an interactive piece of art that focuses on its artistic qualities rather than its technological aspects. KAIROS provides real-time weather information through rotating scene discs and a display showing temperature, precipitation, and wind speed. Additionally, we integrated IBM's Watson Assistant to enable an NLP-based conversational interface, allowing users to interact with KAIROS through voice commands for weather forecasts and news updates.
